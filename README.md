@@ -1,4 +1,4 @@
-# vue-proj_RunEventController
+# symfony-proj_RunEventController
 
 
 Fragments of a runners website
