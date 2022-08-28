@@ -3,7 +3,7 @@
 
 Fragments of a runners website
 
-RunEventController.php - the backend code of race event processing
+RunEventController.php - the backend code for race event processing
 
 Site appearance:
 
