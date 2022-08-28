@@ -1,7 +1,7 @@
 # symfony-proj_RunEventController
 
 
-Fragments of a runners website
+Fragment of a runners website
 
 RunEventController.php - the backend code for race event processing
 
