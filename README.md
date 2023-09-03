@@ -1,7 +1,7 @@
 # symfony-proj_RunEventController
 
 
-Fragment of [runners website](https://www.everyrun.world/)
+Fragment of [Runners website](https://www.everyrun.world/)
 
 RunEventController.php - the backend code for race event processing
 
